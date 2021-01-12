@@ -2,9 +2,60 @@
     margin-bottom: 24px;
     background-color: var(--background-primary);
 }
+
 .channelTextArea-2VhZ6z {
     position: relative;
     width: 100%;
     text-indent: 0;
     border-radius: 50px;
+}
+
+.sansAttachButton-td2irx {
+    padding-left: 16px;
+}
+
+.inner-MADQqc {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+}
+
+.textAreaSlate-1ZzRVj {
+    padding: 0;
+}
+
+.textArea-12jD-V {
+    background-color: transparent;
+    resize: none;
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.375rem;
+    width: 100%;
+    height: 44px;
+    min-height: 44px;
+    color: var(--text-normal);
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+.buttons-3JBrkn {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    height: 44px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    margin-right: 4px;
 }
