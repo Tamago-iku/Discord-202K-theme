@@ -1,5 +1,6 @@
 .channelTextArea-rNsIhG {
     margin-bottom: 24px;
+    
     background-color: var(--background-primary);
 }
 
@@ -58,4 +59,48 @@
     position: sticky;
     top: 0;
     margin-right: 4px;
+}
+
+.membersGroup-v9BXpm {
+    padding: 20px 8px 0 16px;
+    height: 50px;
+}
+
+.container-2ax-kl {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 600;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    color: #fff;
+}
+
+.name-uJV0GL {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    color: #fff;
+}
+
+.activity-2Gy-9S {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+    font-weight: 500;
 }
