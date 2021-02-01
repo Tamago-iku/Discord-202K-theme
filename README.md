@@ -8,4 +8,5 @@ https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
 
 (credit to LeoRicharte for the concept above)
 
-I'll add more here later lol
+Thanks to SlippyGitty for crediting me and using some parts of my project towards his fork of Comfy!
+https://github.com/SlippingGitty/Comfy202k
